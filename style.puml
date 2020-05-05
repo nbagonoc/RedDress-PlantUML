@@ -1,5 +1,3 @@
-@startuml
-
 !ifndef FONTNAME
 !define FONTNAME "Helvetica"
 !endif
@@ -259,5 +257,3 @@ skinparam storage {
   basic_style()
   font_style()
 }
-
-@enduml
