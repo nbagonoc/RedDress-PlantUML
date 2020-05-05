@@ -1,7 +1,7 @@
 @startuml
 
 !ifndef FONTNAME
-!define FONTNAME "Verdana"
+!define FONTNAME "Helvetica"
 !endif
 
 !ifndef FONTSIZE
